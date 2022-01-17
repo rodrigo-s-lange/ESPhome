@@ -1,0 +1,23 @@
+{
+    "name": "ESPhome",
+    "description": "automates garage door, garden lights and has basic alarm functions",
+    "keywords": "ESPhome, gate, alarm, lighting",
+    "authors": [
+        {
+            "name": "Rodrigo Lange",
+            "email": "rodrigo@easysmart.com.br",
+            "url": "https://easysmart.com.br",
+            "maintainer": true
+        },
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rodrigo-s-lange/ESPhome"
+    },
+    "version": "0.0.0",
+    "homepage": "https://update.easysmart.com.br/ESPHome.lib",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.pde"
+    ]
+}
