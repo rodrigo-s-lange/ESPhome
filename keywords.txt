@@ -1,0 +1,59 @@
+#######################################
+# Data types (KEYWORD1)
+#######################################
+
+# comment
+ESPhome	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# KEYWORDS FOR ALARM
+
+begin	KEYWORD2
+run	KEYWORD2
+alarm	KEYWORD2
+isalarmtriggered	KEYWORD2
+bip	KEYWORD2
+blink	KEYWORD2
+isAux1triggered	KEYWORD2
+isAux2triggered	KEYWORD2
+
+# KEYWORDS FOR GARAGEDOOR
+
+pulse	KEYWORD2
+isgaragedooropen	KEYWORD2
+sensors	KEYWORD2
+isSensorOpenTriggered	KEYWORDS2
+isSensorClosedTriggered	KEYWORDS2
+isSensorRouteTriggered	KEYWORDS2
+
+# KEYWORDS FOR LIGHTING
+
+lighting	KEYWORD2
+islightingon	KEYWORD2
+
+# KEYWORDS FOR DOORBELL
+
+isdoordellpressed KEYWORD2
+
+#######################################
+# Literals (LITERAL1)
+#######################################
+
+# comment
+DELAY_MS	LITERAL1
+DELAY_BIP	LITERAL1
+DELAY_PULSE	LITERAL1
+P4_PUL	LITERAL1
+P5_LGT	LITERAL1
+P14_AUX	LITERAL1
+P12_SCL	LITERAL1
+P13_SOP	LITERAL1
+P0_SPR	LITERAL1
+P2_LED	LITERAL1
+P15_BUZ	LITERAL1
+P16_DBL	LITERAL1
+P3_IN1	LITERAL1
+P1_IN2	LITERAL1	
