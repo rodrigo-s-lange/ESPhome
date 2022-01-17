@@ -1,0 +1,2 @@
+# ESPhome
+This library allows you to use callback functions to track changes in the states of garage door threshold sensors, barrier sensors, and occupancy sensors. It also detects the status of the courtesy light relay of generic boards. It has basic alarm and garden light control functions (reflector type, courtesy light, traffic light, etc). It also has a simple doorbell function. Consult the project to better understand its use.
